@@ -11,18 +11,12 @@
 
 ---
 
-## 🐍 Змейка на поле
-
-Классическая 2D-змейка бегает по «полю» — это ваша сетка коммитов на GitHub.  
-GIF обновляется автоматически каждый день через Actions.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomanStudent993/RomanStudent993/output/github-contribution-grid-snake-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomanStudent993/RomanStudent993/output/github-contribution-grid-snake.gif">
   <img alt="Змейка бежит по полю коммитов" src="https://raw.githubusercontent.com/RomanStudent993/RomanStudent993/output/github-contribution-grid-snake-dark.gif" width="100%">
 </picture>
 
-> После первого push запустите workflow **Generate Snake** (Actions → Run workflow). Через 1–2 минуты GIF появится в ветке `output`.
 
 ---
 
