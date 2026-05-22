@@ -4,9 +4,6 @@
 
 **Python & C# разработчик** · веб, боты, игры и 3D
 
-[![Profile views](https://komarev.com/ghpvc/?username=RomanStudent993&label=Просмотры%20профиля&color=0e75b6&style=flat)](https://github.com/RomanStudent993)
-[![GitHub followers](https://img.shields.io/github/followers/RomanStudent993?label=Подписчики&style=flat&color=blue)](https://github.com/RomanStudent993?tab=followers)
-
 </div>
 
 ---
